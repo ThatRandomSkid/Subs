@@ -10,4 +10,4 @@ To use:
 3. Run in CLI:
    ./sh "target_username"
 
-Optional: Add 'adv' after to get the description of the subscribed channels and when the user subscribed.
+Optional: Add 'adv' after to get a description of the subscribed channels and when the user subscribed.
