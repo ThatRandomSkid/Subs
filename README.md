@@ -1,5 +1,5 @@
 # Subs
-Simple API interface to find a YouTube user's subscription
+Simple API interface to find a YouTube user's subscription, based on YouTube's API
 
 Only works if the user has made their subscriptions public, which is off by default for newer accounts but on for many older ones.
 
