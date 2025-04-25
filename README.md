@@ -8,6 +8,6 @@ To use:
 1. Download and navigate to file location
 2. Replace the API key placeholder with your own Google Cloud YouTube Data API v3 API key
 3. Run in bash (replace USER with target username):
-   '''./sh "USER"'''
+   './sh "USER"'
 
 Optional: Add 'adv' after to get the description of the subscribed channels and when the user subscripbed.
