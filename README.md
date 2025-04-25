@@ -7,7 +7,7 @@ Only works if the user has made their subscriptions public, which is off by defa
 To use:
 1. Download and navigate to file location
 2. Replace the API key placeholder with your own Google Cloud YouTube Data API v3 API key
-3. Run in bash (replace USER with target username):
-   ./sh "USER"
+3. Run in bash:
+   ./sh "target_username"
 
-Optional: Add 'adv' after to get the description of the subscribed channels and when the user subscripbed.
+Optional: Add 'adv' after to get the description of the subscribed channels and when the user subscribed.
